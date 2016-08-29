@@ -1,4 +1,10 @@
 h1 {
   color: #954535;
   font-size: 72px;
+  font-family: cursive;
+}
+
+body {
+  font-family: 'Arial';
+  text-align: center;
 }
