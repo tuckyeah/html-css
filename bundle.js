@@ -447,7 +447,7 @@ webpackJsonp([0],[
 
 
 	// module
-	exports.push([module.id, "h1 {\n  color: #954535;\n  font-size: 72px;\n}\n", ""]);
+	exports.push([module.id, "h1 {\n  color: #954535;\n  font-size: 72px;\n  font-family: cursive;\n}\n\nbody {\n  font-family: 'Arial';\n  text-align: center;\n}\n", ""]);
 
 	// exports
 
